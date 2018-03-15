@@ -1,0 +1,3 @@
+project=ruby_tapas_api
+test=minitest
+template=erb
